@@ -1,0 +1,23 @@
+#container {
+    height: 100vh;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+}
+
+#container div {
+    margin: 20px;
+}
+
+.vermelha {
+    color: red;
+}
+
+.azul {
+    color: blue;
+}
+
+.branca {
+    color: white;
+}
