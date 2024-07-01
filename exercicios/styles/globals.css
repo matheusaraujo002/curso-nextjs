@@ -105,3 +105,13 @@ a {
     color-scheme: dark;
   }
 }
+
+.azul {
+  background-color: dodgerblue;
+  text-align: center;
+}
+
+.vermelho {
+  background-color: crimson;
+  text-align: center;
+}
