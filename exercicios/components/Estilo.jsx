@@ -1,5 +1,7 @@
 export default function Estilo(props) {
-    
+    // const backgroundColor = 123
+    // "-" é um identificador inválido
+
     const classeAplicada = props.numero >= 0 ? "azul" : "vermelho"
 
     return (
